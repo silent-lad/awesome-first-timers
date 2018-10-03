@@ -531,3 +531,7 @@
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
 
+-Name: Eshaan Bansal
+ Place: Delhi, India
+ Bio: noob of all trades
+ GitHub: [Eshaan7](https://github.com/Eshaan7)
